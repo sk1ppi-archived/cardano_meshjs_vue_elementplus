@@ -56,7 +56,7 @@
 <script>
 import { BrowserWallet, BlockfrostProvider, Transaction, ForgeScript } from '@meshsdk/core';
 
-const BLOCKFROST_API_KEY = ''
+const BLOCKFROST_API_KEY = 'preprodIXnvRxT5QiT0Yrz0wbhSdoOno8p0Pdf7'
 
 export default {
     name: 'App',
